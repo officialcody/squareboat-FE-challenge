@@ -1,0 +1,54 @@
+.nav-bar {
+  background: transparent linear-gradient(248deg, #303F60 0%, #1A253C 100%) 0% 0% no-repeat padding-box;
+}
+
+.title {
+  font-size: 22px;
+  color: white;
+}
+
+.title .title-jobs {
+  color: #43AFFF;
+}
+
+.login-button {
+  color: white;
+  background: #43AFFF33 0% 0% no-repeat padding-box;
+  border: 1px solid #43AFFF;
+  border-radius: 5px;
+}
+
+.horizontal-rule {
+  width: 95%;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+
+.heading {
+  color: white;
+  font-size: 60px;
+  text-align: left;
+}
+
+.heading .heading-jobs {
+  color: #43AFFF;
+}
+
+.get-started-button {
+  font-size: 16px;
+  color: white;
+  background: #43AFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #43AFFF;
+  border-radius: 5px;
+}
+
+.get-started-button:hover, .login-button:hover {
+  color: white;
+  opacity: 0.8;
+}
+
+.image {
+  position: absolute;
+  top: -135%;
+  left: 50%;
+}
+/*# sourceMappingURL=Navbar.css.map */
